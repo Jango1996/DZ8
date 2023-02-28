@@ -1,0 +1,5 @@
+C:\GeekBrains\DZ8\Задачи\Task54\obj\Debug\net6.0\Task54.csproj.AssemblyReference.cache
+C:\GeekBrains\DZ8\Задачи\Task54\obj\Debug\net6.0\Task54.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\DZ8\Задачи\Task54\obj\Debug\net6.0\Task54.AssemblyInfoInputs.cache
+C:\GeekBrains\DZ8\Задачи\Task54\obj\Debug\net6.0\Task54.AssemblyInfo.cs
+C:\GeekBrains\DZ8\Задачи\Task54\obj\Debug\net6.0\Task54.csproj.CoreCompileInputs.cache

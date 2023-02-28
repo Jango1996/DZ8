@@ -1,0 +1,15 @@
+C:\GeekBrains\DZ8\Задачи\Task56\bin\Debug\net6.0\Task56.exe
+C:\GeekBrains\DZ8\Задачи\Task56\bin\Debug\net6.0\Task56.deps.json
+C:\GeekBrains\DZ8\Задачи\Task56\bin\Debug\net6.0\Task56.runtimeconfig.json
+C:\GeekBrains\DZ8\Задачи\Task56\bin\Debug\net6.0\Task56.dll
+C:\GeekBrains\DZ8\Задачи\Task56\bin\Debug\net6.0\Task56.pdb
+C:\GeekBrains\DZ8\Задачи\Task56\obj\Debug\net6.0\Task56.csproj.AssemblyReference.cache
+C:\GeekBrains\DZ8\Задачи\Task56\obj\Debug\net6.0\Task56.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\DZ8\Задачи\Task56\obj\Debug\net6.0\Task56.AssemblyInfoInputs.cache
+C:\GeekBrains\DZ8\Задачи\Task56\obj\Debug\net6.0\Task56.AssemblyInfo.cs
+C:\GeekBrains\DZ8\Задачи\Task56\obj\Debug\net6.0\Task56.csproj.CoreCompileInputs.cache
+C:\GeekBrains\DZ8\Задачи\Task56\obj\Debug\net6.0\Task56.dll
+C:\GeekBrains\DZ8\Задачи\Task56\obj\Debug\net6.0\refint\Task56.dll
+C:\GeekBrains\DZ8\Задачи\Task56\obj\Debug\net6.0\Task56.pdb
+C:\GeekBrains\DZ8\Задачи\Task56\obj\Debug\net6.0\Task56.genruntimeconfig.cache
+C:\GeekBrains\DZ8\Задачи\Task56\obj\Debug\net6.0\ref\Task56.dll
